@@ -67,7 +67,11 @@ Everyone is given the opportunity to play the role of
 * Giver
 * Taker
 
-in whole or in part as it is compatible with wishes of the other members. A decentralized autonomous organization provides the ideal foundation for delivering on this promise.
+in whole or in part as it is compatible with wishes of the other members. A decentralized autonomous organization provides the ideal foundation for delivering on this promise. Performing the various roles in the self-organizing entity Ampersand23 places high demands on the will and competencies of all participants.
+
+In exchange, it offers the makers the opportunity to earn income with their organizational talent and enthusiasm. The givers get a platform to share their knowledge and skills for a reasonable fee, and the takers have the opportunity to benefit from didactically designed content for a small fee.
+
+Learn more about Ampersand23 DAO.
 
 #### OUR VALUES
 
