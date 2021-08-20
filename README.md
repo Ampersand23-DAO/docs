@@ -6,7 +6,7 @@
 
 Joining Ampersand23 DAO means putting yourself in the position of being a student, teacher and dean of your own university. You can learn, teach and have a voice in what content is taught.
 
-#### #### PREAMBLE/DISCLAIMER - Start ####
+#### #### PREAMBLE/DISCLAIMER - Start #### ####
 
 ###  Ampersand23 DAO is pre-alpha / developer preview!
 
