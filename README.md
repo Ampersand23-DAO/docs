@@ -21,7 +21,7 @@ Any kind of input, suggestions for improvement, ideas and feedback are highly we
 #### #### PREAMBLE/DISCLAIMER - End #### ####
 
 #### WHY JOIN AMPERSAND23 DAO?
-Ampersand23 DAO sees itself as an archetype of acompletely independent NGO/NPO and member-supported foundation that aims to offer all members the opportunity to gain knowledge. Participating members only should have the power to decide on the direction, objectives and offerings. It shall become place for all people of the world and is primarily committed to the acquisition and transmission of knowledge and skills. It does not compete to replace universities, but it can prepare people to attend an university or college, be a learning support and a help for those who are being denied higher education.
+Ampersand23 DAO sees itself as an archetype of a completely independent NGO/NPO and member-supported foundation that aims to offer all members the opportunity to gain knowledge. Participating members only should have the power to decide on the direction, objectives and offerings. It shall become place for all people of the world and is primarily committed to the acquisition and transmission of knowledge and skills. It does not compete to replace universities, but it can prepare people to attend an university or college, be a learning support and a help for those who are being denied higher education.
 
 Ampersand23 is mainly an academy, an institute, a laboratory, a school, a college, and an university. But because of its distributed structure, we are still refraining from offering our own degrees. Instead, our plan is to prepare our students to earn accredited certifications. At a later date, our management may then reconsider issuing our own certificates or degrees.
 
