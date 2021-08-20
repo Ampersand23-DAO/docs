@@ -8,9 +8,11 @@ Joining Ampersand23 DAO means putting yourself in the position of being a studen
 
 ##################################################
 
-TEST
+PREAMBLE/DISCLAIMER - Start
 
 ##################################################
+
+###  Ampersand23 DAO is pre-alpha / developer preview!
 
 Ampersand23 DAO is a young and immature project and due to its decentralized governance structure it presents itself early as a "banana product" which in this case means "ripens at customer's home". This makes the whole Ampersand23 DAO project highly experimental both in terms of technical implementation and basic concept. Do you wish to learn more about Ampersand23 DAO's participation and governance?
 
@@ -18,11 +20,14 @@ From this point of view, Ampersand23 DAO is, for the time being, a study object 
 
 Currently, the DAO smart contract exists only as a test version on Ethereum's Rinkeby test network. Potential participants are recommended to use the browser plugin "Metamask" to create an account and equip it with test ETH in the network "Rinkeby".
 
-Any kind of input, suggestions for improvement, ideas and feedback are highly welcome. Feel free to mail at founder@ampersand23.org!
+Any kind of input, suggestions for improvement, ideas and feedback are highly welcome. Feel free to mail at [founder@ampersand23.org](mailto:founder@ampersand23.org) or open an issue here on [Github](https://github.com/Ampersand23-DAO/docs/issues/new/choose)!
 
 ##################################################
-TEST
+
+PREAMBLE/DISCLAIMER - End
+
 ##################################################
+
 
 #### WHY JOIN AMPERSAND23 DAO?
 Ampersand23 DAO sees itself as an archetype of acompletely independent NGO/NPO and member-supported foundation that aims to offer all members the opportunity to gain knowledge. Participating members only should have the power to decide on the direction, objectives and offerings. It shall become place for all people of the world and is primarily committed to the acquisition and transmission of knowledge and skills. It does not compete to replace universities, but it can prepare people to attend an university or college, be a learning support and a help for those who are being denied higher education.
