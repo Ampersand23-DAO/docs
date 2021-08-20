@@ -7,7 +7,9 @@
 Joining Ampersand23 DAO means putting yourself in the position of being a student, teacher and dean of your own university. You can learn, teach and have a voice in what content is taught.
 
 ##################################################
+
 TEST
+
 ##################################################
 
 Ampersand23 DAO is a young and immature project and due to its decentralized governance structure it presents itself early as a "banana product" which in this case means "ripens at customer's home". This makes the whole Ampersand23 DAO project highly experimental both in terms of technical implementation and basic concept. Do you wish to learn more about Ampersand23 DAO's participation and governance?
