@@ -18,12 +18,7 @@ Currently, the DAO smart contract exists only as a test version on Ethereum's Ri
 
 Any kind of input, suggestions for improvement, ideas and feedback are highly welcome. Feel free to mail at [founder@ampersand23.org](mailto:founder@ampersand23.org) or open an issue here on [Github](https://github.com/Ampersand23-DAO/docs/issues/new/choose)!
 
-##################################################
-
-#### PREAMBLE/DISCLAIMER - End
-
-##################################################
-
+#### #### PREAMBLE/DISCLAIMER - End #### ####
 
 #### WHY JOIN AMPERSAND23 DAO?
 Ampersand23 DAO sees itself as an archetype of acompletely independent NGO/NPO and member-supported foundation that aims to offer all members the opportunity to gain knowledge. Participating members only should have the power to decide on the direction, objectives and offerings. It shall become place for all people of the world and is primarily committed to the acquisition and transmission of knowledge and skills. It does not compete to replace universities, but it can prepare people to attend an university or college, be a learning support and a help for those who are being denied higher education.
