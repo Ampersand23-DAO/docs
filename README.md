@@ -2,10 +2,11 @@
 ## Think & Tink Tank | Academy, Institute, Lab
 
 ### Here you can find the docs, descriptions, ideas, notes, whitepaper and so on.
+### [Ampersand23 DAO](https://ampersand23.org)
 
 Joining Ampersand23 DAO means putting yourself in the position of being a student, teacher and dean of your own university. You can learn, teach and have a voice in what content is taught.
 
-WHY JOIN AMPERSAND23 DAO?
+#### WHY JOIN AMPERSAND23 DAO?
 Ampersand23 DAO sees itself as an archetype of acompletely independent NGO/NPO and member-supported foundation that aims to offer all members the opportunity to gain knowledge. Participating members only should have the power to decide on the direction, objectives and offerings. It shall become place for all people of the world and is primarily committed to the acquisition and transmission of knowledge and skills. It does not compete to replace universities, but it can prepare people to attend an university or college, be a learning support and a help for those who are being denied higher education.
 
 Ampersand23 is mainly an academy, an institute, a laboratory, a school, a college, and an university. But because of its distributed structure, we are still refraining from offering our own degrees. Instead, our plan is to prepare our students to earn accredited certifications. At a later date, our management may then reconsider issuing our own certificates or degrees.
