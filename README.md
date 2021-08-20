@@ -8,7 +8,7 @@ Joining Ampersand23 DAO means putting yourself in the position of being a studen
 
 ##################################################
 
-PREAMBLE/DISCLAIMER - Start
+#### PREAMBLE/DISCLAIMER - Start
 
 ##################################################
 
@@ -24,7 +24,7 @@ Any kind of input, suggestions for improvement, ideas and feedback are highly we
 
 ##################################################
 
-PREAMBLE/DISCLAIMER - End
+#### PREAMBLE/DISCLAIMER - End
 
 ##################################################
 
